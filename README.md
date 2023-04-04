@@ -1,5 +1,7 @@
 # Evil MinIO (CVE-2023-28434)
 
+Doc: [CVE-2023-28432 minio 接口未授权访问到无损RCE和全局后门.pdf](./CVE-2023-28432 minio 接口未授权访问到无损RCE和全局后门.pdf)
+
 EXP for **CVE-2023-28434**
 
 MinIO unauthorized to RCE
